@@ -1,0 +1,4 @@
+pyserial>=3.5
+reportlab>=4.0.0
+segno>=1.6.1
+
